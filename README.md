@@ -13,3 +13,5 @@
 * Build your <DATADIR>/static-nodes.json with every other enode & restart geth :
 
     https://github.com/ethereum/go-ethereum/wiki/Connecting-to-the-network#static-nodes
+
+* Start Mist
