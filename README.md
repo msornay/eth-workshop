@@ -6,12 +6,11 @@ Packages to run Mist : libnotify4 libgconf2-4
 
 ## CHEATSHEET
 
-
-Create account : personal.newAccount("passphrase")
-Accounts list : eth.accounts
-Block number : eth.blockNumber
-miner.start(1) / miner.stop()
-ethlove.links(eth.account[0])
+* Create account : `personal.newAccount("passphrase")`
+* Accounts list : `eth.accounts`
+* Block number : `eth.blockNumber`
+* `miner.start(1)` / `miner.stop()`
+* `ethlove.links(eth.account[0])`
 
 ## Loose planning
 
