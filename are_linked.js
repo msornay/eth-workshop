@@ -25,11 +25,9 @@ function bytesToAddress(bytes) {
 function xorAddresses(a, b) {
     aArr = addressToBytes(a);
     bArr = addressToBytes(b);
-
     xorArr = []
     for (var i = 0; i < aArr.length; i++) {
         xorArr[i] = aArr[i] ^ bArr[i];
     }
-
     return bytesToAddress(xorArr)
 }
