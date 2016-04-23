@@ -1,3 +1,5 @@
+https://mensuel.framapad.org/p/framethereum
+
 # eth-workshop
 
 ## SETUP
